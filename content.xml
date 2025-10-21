@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.3" created="2025-10-21 02:57" -->
+	<!-- generator="WordPress/6.8.3" created="2025-10-21 03:56" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>VIMart Minimal Market</title>
 	<link>https://mini.new2new.com</link>
 	<description></description>
-	<pubDate>Tue, 21 Oct 2025 02:57:40 +0000</pubDate>
+	<pubDate>Tue, 21 Oct 2025 03:56:35 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://mini.new2new.com</wp:base_site_url>
@@ -2912,138 +2912,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[freeshipping]]></title>
-		<link>https://mini.new2new.com/home/freeshipping/</link>
-		<pubDate>Fri, 03 Oct 2025 02:36:53 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/freeshipping.svg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>349</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-03 02:36:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-03 02:36:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 02:36:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 02:36:53]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[freeshipping]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/freeshipping.svg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/10/freeshipping.svg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:8:"filesize";i:1975;s:5:"width";i:60;s:6:"height";i:60;}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[support]]></title>
-		<link>https://mini.new2new.com/home/support/</link>
-		<pubDate>Fri, 03 Oct 2025 02:40:07 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/support.svg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>353</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-03 02:40:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-03 02:40:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 02:40:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 02:40:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[support]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/support.svg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/10/support.svg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:8:"filesize";i:2605;s:5:"width";i:60;s:6:"height";i:60;}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[payment]]></title>
-		<link>https://mini.new2new.com/home/payment-2/</link>
-		<pubDate>Fri, 03 Oct 2025 02:40:33 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/payment.svg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>354</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-03 02:40:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-03 02:40:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 02:40:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 02:40:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[payment-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/payment.svg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/10/payment.svg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:8:"filesize";i:968;s:5:"width";i:60;s:6:"height";i:60;}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[offer]]></title>
-		<link>https://mini.new2new.com/home/offer/</link>
-		<pubDate>Fri, 03 Oct 2025 02:40:58 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/offer.svg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>355</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-03 02:40:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-03 02:40:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 02:40:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 02:40:58]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[offer]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>2</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/offer.svg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/10/offer.svg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:8:"filesize";i:1655;s:5:"width";i:60;s:6:"height";i:60;}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[banner7]]></title>
 		<link>https://mini.new2new.com/home/banner7/</link>
 		<pubDate>Fri, 03 Oct 2025 03:00:05 +0000</pubDate>
@@ -3473,6 +3341,138 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[storage]]></title>
+		<link>https://mini.new2new.com/storage/</link>
+		<pubDate>Mon, 13 Oct 2025 09:22:48 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/storage.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>612</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-13 09:22:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-13 09:22:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-13 09:22:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-13 09:22:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[storage]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/storage.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/10/storage.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:243;s:6:"height";i:224;s:4:"file";s:19:"2025/10/storage.jpg";s:8:"filesize";i:26008;s:5:"sizes";a:2:{s:9:"thumbnail";a:5:{s:4:"file";s:19:"storage-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6210;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:19:"storage-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3450;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[men]]></title>
+		<link>https://mini.new2new.com/men-2/</link>
+		<pubDate>Mon, 13 Oct 2025 09:23:12 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/men.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>613</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-13 09:23:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-13 09:23:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-13 09:23:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-13 09:23:12]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[men-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/men.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/10/men.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:972;s:6:"height";i:896;s:4:"file";s:15:"2025/10/men.jpg";s:8:"filesize";i:44710;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:15:"men-300x277.jpg";s:5:"width";i:300;s:6:"height";i:277;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11066;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"men-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4710;}s:12:"medium_large";a:5:{s:4:"file";s:15:"men-768x708.jpg";s:5:"width";i:768;s:6:"height";i:708;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41355;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:15:"men-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12011;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:15:"men-600x553.jpg";s:5:"width";i:600;s:6:"height";i:553;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29275;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:15:"men-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2911;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[acc]]></title>
+		<link>https://mini.new2new.com/acc/</link>
+		<pubDate>Mon, 13 Oct 2025 09:23:38 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/acc.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>614</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-13 09:23:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-13 09:23:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-13 09:23:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-13 09:23:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[acc]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/acc.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/10/acc.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:243;s:6:"height";i:225;s:4:"file";s:15:"2025/10/acc.jpg";s:8:"filesize";i:17289;s:5:"sizes";a:2:{s:9:"thumbnail";a:5:{s:4:"file";s:15:"acc-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4304;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:15:"acc-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2691;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[kid]]></title>
+		<link>https://mini.new2new.com/kid/</link>
+		<pubDate>Mon, 13 Oct 2025 09:24:01 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/kid.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>615</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-13 09:24:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-13 09:24:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-13 09:24:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-13 09:24:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[kid]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/kid.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/10/kid.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:244;s:6:"height";i:225;s:4:"file";s:15:"2025/10/kid.jpg";s:8:"filesize";i:26499;s:5:"sizes";a:2:{s:9:"thumbnail";a:5:{s:4:"file";s:15:"kid-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5861;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:15:"kid-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3284;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Default Kit]]></title>
 		<link>https://mini.new2new.com/?elementor_library=default-kit</link>
 		<pubDate>Thu, 02 Oct 2025 09:51:03 +0000</pubDate>
@@ -3698,138 +3698,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1759455591]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[storage]]></title>
-		<link>https://mini.new2new.com/storage/</link>
-		<pubDate>Mon, 13 Oct 2025 09:22:48 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/storage.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>612</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-13 09:22:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-13 09:22:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-13 09:22:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-13 09:22:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[storage]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/storage.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/10/storage.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:243;s:6:"height";i:224;s:4:"file";s:19:"2025/10/storage.jpg";s:8:"filesize";i:26008;s:5:"sizes";a:2:{s:9:"thumbnail";a:5:{s:4:"file";s:19:"storage-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6210;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:19:"storage-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3450;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[men]]></title>
-		<link>https://mini.new2new.com/men-2/</link>
-		<pubDate>Mon, 13 Oct 2025 09:23:12 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/men.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>613</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-13 09:23:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-13 09:23:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-13 09:23:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-13 09:23:12]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[men-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/men.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/10/men.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:972;s:6:"height";i:896;s:4:"file";s:15:"2025/10/men.jpg";s:8:"filesize";i:44710;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:15:"men-300x277.jpg";s:5:"width";i:300;s:6:"height";i:277;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11066;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"men-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4710;}s:12:"medium_large";a:5:{s:4:"file";s:15:"men-768x708.jpg";s:5:"width";i:768;s:6:"height";i:708;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41355;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:15:"men-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12011;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:15:"men-600x553.jpg";s:5:"width";i:600;s:6:"height";i:553;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29275;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:15:"men-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2911;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[acc]]></title>
-		<link>https://mini.new2new.com/acc/</link>
-		<pubDate>Mon, 13 Oct 2025 09:23:38 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/acc.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>614</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-13 09:23:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-13 09:23:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-13 09:23:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-13 09:23:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[acc]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/acc.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/10/acc.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:243;s:6:"height";i:225;s:4:"file";s:15:"2025/10/acc.jpg";s:8:"filesize";i:17289;s:5:"sizes";a:2:{s:9:"thumbnail";a:5:{s:4:"file";s:15:"acc-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4304;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:15:"acc-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2691;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[kid]]></title>
-		<link>https://mini.new2new.com/kid/</link>
-		<pubDate>Mon, 13 Oct 2025 09:24:01 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/kid.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>615</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-13 09:24:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-13 09:24:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-13 09:24:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-13 09:24:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[kid]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/kid.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/10/kid.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:244;s:6:"height";i:225;s:4:"file";s:15:"2025/10/kid.jpg";s:8:"filesize";i:26499;s:5:"sizes";a:2:{s:9:"thumbnail";a:5:{s:4:"file";s:15:"kid-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5861;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:15:"kid-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3284;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4226,6 +4094,138 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:300;s:6:"height";i:300;s:4:"file";s:17:"2025/10/acc-1.jpg";s:8:"filesize";i:45614;s:5:"sizes";a:2:{s:9:"thumbnail";a:5:{s:4:"file";s:17:"acc-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6984;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:17:"acc-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3920;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[ship]]></title>
+		<link>https://mini.new2new.com/home/ship/</link>
+		<pubDate>Tue, 21 Oct 2025 03:47:17 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/ship.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>692</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-21 03:47:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-21 03:47:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-21 03:47:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-21 03:47:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[ship]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>2</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/ship.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/10/ship.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:60;s:6:"height";i:60;s:4:"file";s:16:"2025/10/ship.jpg";s:8:"filesize";i:2693;s:5:"sizes";a:1:{s:22:"elementor_custom_60x60";a:4:{s:4:"file";s:68:"elementor/thumbs/ship-rdilaw3ir3vcpfrc32ftsw1qgyiuvxyjushkh0aosg.jpg";s:5:"width";i:60;s:6:"height";i:60;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[sup]]></title>
+		<link>https://mini.new2new.com/home/sup/</link>
+		<pubDate>Tue, 21 Oct 2025 03:54:03 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/sup.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>702</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-21 03:54:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-21 03:54:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-21 03:54:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-21 03:54:03]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sup]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>2</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/sup.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/10/sup.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:60;s:6:"height";i:60;s:4:"file";s:15:"2025/10/sup.jpg";s:8:"filesize";i:3615;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[pay]]></title>
+		<link>https://mini.new2new.com/home/pay/</link>
+		<pubDate>Tue, 21 Oct 2025 03:54:13 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/pay.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>703</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-21 03:54:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-21 03:54:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-21 03:54:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-21 03:54:13]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pay]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>2</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/pay.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/10/pay.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:60;s:6:"height";i:60;s:4:"file";s:15:"2025/10/pay.jpg";s:8:"filesize";i:2419;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[off]]></title>
+		<link>https://mini.new2new.com/home/off/</link>
+		<pubDate>Tue, 21 Oct 2025 03:54:38 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/off.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>704</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-21 03:54:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-21 03:54:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-21 03:54:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-21 03:54:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[off]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>2</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/off.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/10/off.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:60;s:6:"height";i:60;s:4:"file";s:15:"2025/10/off.jpg";s:8:"filesize";i:3374;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5396,311 +5396,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://mini.new2new.com/269/</link>
-		<pubDate>Fri, 03 Oct 2025 01:40:32 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">https://mini.new2new.com/?p=269</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>269</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-16 09:28:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-03 01:40:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-16 09:28:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-16 09:28:59]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[269]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-10-03]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://mini.new2new.com/270/</link>
-		<pubDate>Fri, 03 Oct 2025 01:40:32 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">https://mini.new2new.com/?p=270</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>270</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-16 09:28:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-03 01:40:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-16 09:28:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-16 09:28:59]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[270]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[65]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-10-03]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://mini.new2new.com/271/</link>
-		<pubDate>Fri, 03 Oct 2025 01:40:32 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">https://mini.new2new.com/?p=271</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>271</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-16 09:28:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-03 01:40:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-16 09:28:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-16 09:28:59]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[271]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[257]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-10-03]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://mini.new2new.com/274/</link>
-		<pubDate>Fri, 03 Oct 2025 01:40:32 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">https://mini.new2new.com/?p=274</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>274</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-16 09:28:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-03 01:40:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-16 09:28:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-16 09:28:59]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[274]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[259]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-10-03]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://mini.new2new.com/276/</link>
-		<pubDate>Fri, 03 Oct 2025 01:40:32 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">https://mini.new2new.com/?p=276</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>276</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-16 09:28:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-03 01:40:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-16 09:28:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-16 09:28:59]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[276]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-10-03]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Accessories]]></title>
 		<link>https://mini.new2new.com/accessories/</link>
 		<pubDate>Fri, 03 Oct 2025 01:55:49 +0000</pubDate>
@@ -6596,6 +6291,299 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Tablets]]></title>
+		<link>https://mini.new2new.com/tablets/</link>
+		<pubDate>Tue, 14 Oct 2025 04:18:01 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">https://mini.new2new.com/?p=630</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>630</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-16 09:29:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-14 04:18:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-16 09:29:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-16 09:29:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[tablets]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>21</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="vertical-menu"><![CDATA[Vertical Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[630]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-10-14]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Women’s clothing]]></title>
+		<link>https://mini.new2new.com/womens-clothing/</link>
+		<pubDate>Tue, 14 Oct 2025 04:18:01 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">https://mini.new2new.com/?p=631</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>631</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-16 09:29:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-14 04:18:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-16 09:29:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-16 09:29:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[womens-clothing]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>22</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="vertical-menu"><![CDATA[Vertical Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[631]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-10-14]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Accessories]]></title>
+		<link>https://mini.new2new.com/accessories-2/</link>
+		<pubDate>Thu, 16 Oct 2025 09:17:52 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">https://mini.new2new.com/?p=660</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>660</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-16 09:29:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-16 09:17:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-16 09:29:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-16 09:29:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[accessories-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="vertical-menu"><![CDATA[Vertical Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[620]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[660]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Activewear]]></title>
+		<link>https://mini.new2new.com/activewear/</link>
+		<pubDate>Thu, 16 Oct 2025 09:17:52 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">https://mini.new2new.com/?p=661</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>661</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-16 09:29:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-16 09:17:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-16 09:29:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-16 09:29:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[activewear]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="vertical-menu"><![CDATA[Vertical Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[620]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[661]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Jackets & Coats]]></title>
+		<link>https://mini.new2new.com/jackets-coats/</link>
+		<pubDate>Thu, 16 Oct 2025 09:17:52 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">https://mini.new2new.com/?p=662</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>662</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-16 09:29:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-16 09:17:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-16 09:29:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-16 09:29:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[jackets-coats]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="vertical-menu"><![CDATA[Vertical Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[620]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[662]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Home]]></title>
 		<link>https://mini.new2new.com/</link>
 		<pubDate>Thu, 02 Oct 2025 09:45:17 +0000</pubDate>
@@ -6611,31 +6599,7 @@ For New Customers</h2>					Enjoy 10% off your first order
 with code “WELCOME”					<h2>Up to 40% OFF</h2>					Elevate your style with our best prices of the season										<a href="#">
 									Shop Now
 					</a>
-				<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60" fill="none"><rect width="60" height="60" fill="#F5F5F7"></rect><path d="M31.6667 16.6667C32.1087 16.6667 32.5326 16.8423 32.8452 17.1548C33.1577 17.4674 33.3333 17.8913 33.3333 18.3334H40C40.2509 18.3334 40.4986 18.39 40.7246 18.4991C40.9505 18.6082 41.1489 18.7669 41.305 18.9634L41.4283 19.1434L46.4283 27.4767L46.52 27.6484L46.5867 27.8267L46.635 28.0084L46.6617 28.1917L46.6667 28.3334V38.3334C46.6667 38.7754 46.4911 39.1993 46.1785 39.5119C45.866 39.8244 45.442 40 45 40H43.0483C42.7033 40.9748 42.0647 41.8186 41.2203 42.4154C40.3759 43.0123 39.3673 43.3327 38.3333 43.3327C37.2993 43.3327 36.2907 43.0123 35.4464 42.4154C34.602 41.8186 33.9634 40.9748 33.6183 40H26.3817C26.0366 40.9748 25.398 41.8186 24.5536 42.4154C23.7093 43.0123 22.7007 43.3327 21.6667 43.3327C20.6327 43.3327 19.6241 43.0123 18.7797 42.4154C17.9353 41.8186 17.2967 40.9748 16.9517 40H15C14.558 40 14.1341 39.8244 13.8215 39.5119C13.5089 39.1993 13.3333 38.7754 13.3333 38.3334V20C13.3333 19.116 13.6845 18.2681 14.3096 17.643C14.9348 17.0179 15.7826 16.6667 16.6667 16.6667H31.6667ZM21.6667 36.6667C21.2246 36.6667 20.8007 36.8423 20.4882 37.1548C20.1756 37.4674 20 37.8913 20 38.3334C20 38.7754 20.1756 39.1993 20.4882 39.5119C20.8007 39.8244 21.2246 40 21.6667 40C22.1087 40 22.5326 39.8244 22.8452 39.5119C23.1577 39.1993 23.3333 38.7754 23.3333 38.3334C23.3333 37.8913 23.1577 37.4674 22.8452 37.1548C22.5326 36.8423 22.1087 36.6667 21.6667 36.6667ZM38.3333 36.6667C37.8913 36.6667 37.4674 36.8423 37.1548 37.1548C36.8423 37.4674 36.6667 37.8913 36.6667 38.3334C36.6667 38.7754 36.8423 39.1993 37.1548 39.5119C37.4674 39.8244 37.8913 40 38.3333 40C38.7754 40 39.1993 39.8244 39.5118 39.5119C39.8244 39.1993 40 38.7754 40 38.3334C40 37.8913 39.8244 37.4674 39.5118 37.1548C39.1993 36.8423 38.7754 36.6667 38.3333 36.6667ZM39.0567 21.6667H33.3333V26.6667H42.0567L39.0567 21.6667Z" fill="#001427"></path></svg>				
-									<h3>
-							Free shipping						
-					</h3>
-									<p>
-						For all order over $100					</p>
-				<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60" fill="none"><rect width="60" height="60" fill="#F5F5F7"></rect><path d="M21.25 23.75C21.25 21.4294 22.1719 19.2038 23.8128 17.5628C25.4538 15.9219 27.6794 15 30 15C32.3206 15 34.5462 15.9219 36.1872 17.5628C37.8281 19.2038 38.75 21.4294 38.75 23.75C38.75 24.0815 38.8817 24.3995 39.1161 24.6339C39.3505 24.8683 39.6685 25 40 25C40.3315 25 40.6495 24.8683 40.8839 24.6339C41.1183 24.3995 41.25 24.0815 41.25 23.75C41.2498 21.8314 40.759 19.9448 39.8242 18.2693C38.8893 16.5939 37.5415 15.1854 35.9089 14.1777C34.2762 13.17 32.413 12.5966 30.4963 12.5119C28.5796 12.4273 26.673 12.8343 24.9579 13.6941C23.2428 14.554 21.7761 15.8382 20.6973 17.4247C19.6184 19.0112 18.9631 20.8473 18.7939 22.7584C18.6246 24.6695 18.9469 26.5921 19.7301 28.3436C20.5133 30.095 21.7315 31.6171 23.2687 32.765C24.587 33.7497 26.1051 34.4333 27.7163 34.7675C27.94 35.2695 28.323 35.6837 28.806 35.9462C29.2889 36.2086 29.8448 36.3046 30.3878 36.2192C30.9307 36.1339 31.4304 35.872 31.8096 35.4741C32.1887 35.0762 32.4261 34.5644 32.4852 34.018C32.5442 33.4715 32.4215 32.9209 32.136 32.4512C31.8506 31.9815 31.4183 31.619 30.9061 31.4197C30.3939 31.2204 29.8303 31.1954 29.3025 31.3487C28.7747 31.502 28.3121 31.8249 27.9862 32.2675C26.0682 31.8139 24.3595 30.7261 23.1369 29.1802C21.9143 27.6343 21.2495 25.7209 21.25 23.75ZM22.5 23.75C22.5005 22.3702 22.8816 21.0174 23.6014 19.8402C24.3211 18.6631 25.3517 17.7073 26.5796 17.078C27.8075 16.4488 29.1852 16.1705 30.5611 16.2737C31.937 16.3769 33.2578 16.8577 34.378 17.6631C35.4983 18.4685 36.3747 19.5674 36.9108 20.8388C37.4469 22.1101 37.6218 23.5047 37.4164 24.8691C37.211 26.2335 36.6333 27.5148 35.7467 28.572C34.8601 29.6292 33.699 30.4213 32.3913 30.8613C31.7187 30.3046 30.873 30 30 30C29.0913 30 28.2587 30.3238 27.6087 30.8613C26.1197 30.3604 24.8255 29.4045 23.9089 28.1286C22.9923 26.8526 22.4994 25.3211 22.5 23.75ZM30 37.5C30.6001 37.5003 31.1915 37.3566 31.7245 37.081C32.2576 36.8053 32.7167 36.4058 33.0633 35.9159C33.4099 35.426 33.6338 34.8601 33.7163 34.2657C33.7989 33.6713 33.7375 33.0658 33.5375 32.5H40.625C41.7853 32.5 42.8981 32.9609 43.7186 33.7814C44.5391 34.6019 45 35.7147 45 36.875V37.5C45 40.4913 43.0963 43.0213 40.3938 44.7413C37.6763 46.4713 33.9975 47.5 30 47.5C26.0025 47.5 22.325 46.4713 19.6062 44.7413C16.9037 43.0213 15 40.4913 15 37.5V36.875C15 35.7147 15.4609 34.6019 16.2814 33.7814C17.1019 32.9609 18.2147 32.5 19.375 32.5H21.0738C22.6724 34.1324 24.6879 35.2953 26.9012 35.8625C27.5763 36.8513 28.7137 37.5 30 37.5Z" fill="#001427"></path></svg>				
-									<h3>
-							Support 24/7						
-					</h3>
-									<p>
-						Support online 7 days a week					</p>
-				<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60" fill="none"><rect width="60" height="60" fill="#F5F5F7"></rect><path d="M18.125 16.25C16.6332 16.25 15.2024 16.8426 14.1475 17.8975C13.0926 18.9524 12.5 20.3832 12.5 21.875V23.75H47.5V21.875C47.5 20.3832 46.9074 18.9524 45.8525 17.8975C44.7976 16.8426 43.3668 16.25 41.875 16.25H18.125ZM12.5 38.125V26.25H47.5V38.125C47.5 39.6168 46.9074 41.0476 45.8525 42.1025C44.7976 43.1574 43.3668 43.75 41.875 43.75H18.125C16.6332 43.75 15.2024 43.1574 14.1475 42.1025C13.0926 41.0476 12.5 39.6168 12.5 38.125ZM36.25 33.75C35.9185 33.75 35.6005 33.8817 35.3661 34.1161C35.1317 34.3505 35 34.6685 35 35C35 35.3315 35.1317 35.6495 35.3661 35.8839C35.6005 36.1183 35.9185 36.25 36.25 36.25H40C40.3315 36.25 40.6495 36.1183 40.8839 35.8839C41.1183 35.6495 41.25 35.3315 41.25 35C41.25 34.6685 41.1183 34.3505 40.8839 34.1161C40.6495 33.8817 40.3315 33.75 40 33.75H36.25Z" fill="#001427"></path></svg>				
-									<h3>
-							Payment						
-					</h3>
-									<p>
-						100% payment security					</p>
-				<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60" fill="none"><rect width="60" height="60" fill="#F5F5F7"></rect><path d="M16.6667 16.6667C15.7827 16.6667 14.9348 17.0179 14.3097 17.643C13.6846 18.2681 13.3334 19.116 13.3334 20V26.6667C14.2174 26.6667 15.0653 27.0179 15.6904 27.643C16.3155 28.2681 16.6667 29.116 16.6667 30C16.6667 30.8841 16.3155 31.7319 15.6904 32.357C15.0653 32.9822 14.2174 33.3334 13.3334 33.3334V40C13.3334 40.8841 13.6846 41.7319 14.3097 42.357C14.9348 42.9822 15.7827 43.3334 16.6667 43.3334H43.3334C44.2174 43.3334 45.0653 42.9822 45.6904 42.357C46.3155 41.7319 46.6667 40.8841 46.6667 40V33.3334C45.7826 33.3334 44.9348 32.9822 44.3097 32.357C43.6846 31.7319 43.3334 30.8841 43.3334 30C43.3334 29.116 43.6846 28.2681 44.3097 27.643C44.9348 27.0179 45.7826 26.6667 46.6667 26.6667V20C46.6667 19.116 46.3155 18.2681 45.6904 17.643C45.0653 17.0179 44.2174 16.6667 43.3334 16.6667H16.6667ZM35.8334 21.6667L38.3334 24.1667L24.1667 38.3334L21.6667 35.8334L35.8334 21.6667ZM24.6834 21.7334C26.3167 21.7334 27.6334 23.05 27.6334 24.6834C27.6334 25.4657 27.3226 26.2161 26.7693 26.7693C26.2161 27.3226 25.4658 27.6334 24.6834 27.6334C23.05 27.6334 21.7334 26.3167 21.7334 24.6834C21.7334 23.901 22.0442 23.1506 22.5974 22.5974C23.1506 22.0442 23.901 21.7334 24.6834 21.7334ZM35.3167 32.3667C36.95 32.3667 38.2667 33.6834 38.2667 35.3167C38.2667 36.0991 37.9559 36.8494 37.4027 37.4027C36.8494 37.9559 36.0991 38.2667 35.3167 38.2667C33.6834 38.2667 32.3667 36.95 32.3667 35.3167C32.3667 34.5343 32.6775 33.784 33.2307 33.2307C33.784 32.6775 34.5343 32.3667 35.3167 32.3667Z" fill="#001427"></path></svg>				
-									<h3>
-							Special offers						
-					</h3>
-									<p>
-						Multiple exclusive deals for you!					</p>
-							<h2>Collection</h2>					<h3>Shop Fashion for less</h3>				
+									<figure><img width="60" height="60" src="http://mini.new2new.com/wp-content/uploads/2025/10/ship.jpg" alt="" /></figure><h3>Free shipping</h3><p>For all order over $100</p>					<figure><img width="60" height="60" src="http://mini.new2new.com/wp-content/uploads/2025/10/sup.jpg" alt="" /></figure><h3>Support 24/7</h3><p>Support online 7 days a week</p>					<figure><img width="60" height="60" src="http://mini.new2new.com/wp-content/uploads/2025/10/pay.jpg" alt="" /></figure><h3>Payment</h3><p>100% payment security</p>					<figure><img width="60" height="60" src="http://mini.new2new.com/wp-content/uploads/2025/10/off.jpg" alt="" /></figure><h3>Special offers</h3><p>Multiple exclusive deals for you!</p>					<h2>Collection</h2>					<h3>Shop Fashion for less</h3>				
 					<img width="972" height="896" src="http://mini.new2new.com/wp-content/uploads/2025/10/men.jpg" alt="" decoding="async" srcset="https://mini.new2new.com/wp-content/uploads/2025/10/men.jpg 972w, https://mini.new2new.com/wp-content/uploads/2025/10/men-300x277.jpg 300w, https://mini.new2new.com/wp-content/uploads/2025/10/men-768x708.jpg 768w, https://mini.new2new.com/wp-content/uploads/2025/10/men-600x553.jpg 600w" sizes="(max-width: 972px) 100vw, 972px" />                    <h3>Men’s clothing</h3>
                     <a href="https://mini.new2new.com/product-category/mens-clothing/"></a>
 					<img width="244" height="224" src="http://mini.new2new.com/wp-content/uploads/2025/10/women.jpg" alt="" decoding="async" />                    <h3>Women’s clothing</h3>
@@ -6677,8 +6641,8 @@ New Collection for Women</h2>					Shine with the season’s most stylish looks		
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 09:45:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 09:45:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-16 09:40:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-16 09:40:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-10-21 03:54:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-21 03:54:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -6722,11 +6686,19 @@ New Collection for Women</h2>					Shine with the season’s most stylish looks		
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"33e2cab","elType":"container","settings":{"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"flex_direction":"row","flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"flex_direction_mobile_extra":"column"},"elements":[{"id":"ac79735","elType":"container","settings":{"content_width":"full","width":{"unit":"%","size":64.21875,"sizes":[]},"boxed_width":{"unit":"%","size":64.21875,"sizes":[]},"boxed_width_widescreen":{"unit":"%","size":"","sizes":[]},"boxed_width_laptop":{"unit":"%","size":"","sizes":[]},"boxed_width_tablet_extra":{"unit":"%","size":"","sizes":[]},"boxed_width_tablet":{"unit":"%","size":"","sizes":[]},"boxed_width_mobile_extra":{"unit":"%","size":"","sizes":[]},"boxed_width_mobile":{"unit":"%","size":"","sizes":[]},"background_overlay_background":"classic","background_overlay_image":{"url":"","id":"","size":"","alt":"","source":"library"},"background_overlay_position":"center center","background_overlay_repeat":"no-repeat","background_overlay_size":"cover","background_overlay_opacity":{"unit":"px","size":1,"sizes":[]},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_title":"Container","width_mobile_extra":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"1ee96a1","elType":"container","settings":{"content_width":"full","min_height":{"unit":"px","size":700,"sizes":[]},"background_overlay_background":"classic","background_overlay_image":{"url":"http:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/banner1.jpg","id":304,"size":"","alt":"","source":"library"},"background_overlay_position":"center center","background_overlay_repeat":"no-repeat","background_overlay_size":"cover","background_overlay_opacity":{"unit":"px","size":1,"sizes":[]},"_title":"Banner","flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"padding":{"unit":"px","top":"204","right":"0","bottom":"0","left":"111","isLinked":false},"padding_laptop":{"unit":"px","top":"204","right":"0","bottom":"0","left":"20","isLinked":false},"min_height_mobile":{"unit":"px","size":400,"sizes":[]},"overflow":"hidden","padding_mobile":{"unit":"px","top":"100","right":"0","bottom":"0","left":"20","isLinked":false},"css_classes":"banner-zoom"},"elements":[{"id":"a54cc78","elType":"widget","settings":{"title":"New Shoe<br>\nCollection Launch","header_size":"h1","typography_typography":"custom","typography_font_size":{"unit":"px","size":60,"sizes":[]},"typography_font_weight":"700","typography_line_height":{"unit":"custom","size":"1.1666667","sizes":[]},"typography_line_height_widescreen":{"unit":"custom","size":"","sizes":[]},"typography_line_height_laptop":{"unit":"custom","size":"","sizes":[]},"typography_line_height_tablet_extra":{"unit":"custom","size":"","sizes":[]},"typography_line_height_tablet":{"unit":"custom","size":"","sizes":[]},"typography_line_height_mobile_extra":{"unit":"custom","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"custom","size":"","sizes":[]},"typography_font_size_tablet_extra":{"unit":"px","size":40,"sizes":[]},"typography_font_size_laptop":{"unit":"px","size":50,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"bc978d3","elType":"widget","settings":{"title":"Discover modern style, lead the trend","header_size":"div","typography_typography":"custom","typography_font_size":{"unit":"px","size":22,"sizes":[]},"typography_line_height":{"unit":"px","size":26,"sizes":[]},"title_color":"#000000","_padding":{"unit":"px","top":"15","right":"0","bottom":"20","left":"0","isLinked":false},"typography_font_size_tablet_extra":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"ad6e6dc","elType":"widget","settings":{"text":"Shop Now","background_color":"#000000","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"20","bottom":"10","left":"20","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true},{"id":"49ac284","elType":"container","settings":{"content_width":"full","width":{"unit":"%","size":35.78125,"sizes":[]},"flex_gap":{"column":"20","row":"20","isLinked":true,"unit":"px","size":20},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"20","isLinked":false},"width_mobile_extra":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"padding_mobile_extra":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6bf667c","elType":"container","settings":{"content_width":"full","min_height":{"unit":"px","size":340,"sizes":[]},"background_overlay_background":"classic","background_overlay_image":{"url":"http:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/banner2.jpg","id":305,"size":"","alt":"","source":"library"},"background_overlay_position":"center center","background_overlay_repeat":"no-repeat","background_overlay_size":"cover","background_overlay_opacity":{"unit":"px","size":1,"sizes":[]},"_title":"Banner","flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"padding":{"unit":"px","top":"108","right":"0","bottom":"0","left":"25","isLinked":false},"overflow":"hidden","padding_laptop":{"unit":"px","top":"108","right":"0","bottom":"0","left":"20","isLinked":false},"css_classes":"banner-zoom"},"elements":[{"id":"8d62f22","elType":"widget","settings":{"title":"Special Treat<br>\nFor New Customers","typography_typography":"custom","typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_font_weight":"700","typography_line_height":{"unit":"custom","size":"1.1666667","sizes":[]},"typography_line_height_widescreen":{"unit":"custom","size":"","sizes":[]},"typography_line_height_laptop":{"unit":"custom","size":"","sizes":[]},"typography_line_height_tablet_extra":{"unit":"custom","size":"","sizes":[]},"typography_line_height_tablet":{"unit":"custom","size":"","sizes":[]},"typography_line_height_mobile_extra":{"unit":"custom","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"custom","size":"","sizes":[]},"typography_font_size_tablet_extra":{"unit":"px","size":26,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"97e2c0c","elType":"widget","settings":{"title":"Enjoy 10% off your first order\nwith code \u201cWELCOME\u201d","header_size":"div","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_line_height":{"unit":"px","size":22,"sizes":[]},"title_color":"#000000","_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"_element_width":"initial","_element_custom_width":{"unit":"px","size":205,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"5ede45a","elType":"container","settings":{"content_width":"full","min_height":{"unit":"px","size":340,"sizes":[]},"background_overlay_background":"classic","background_overlay_image":{"url":"http:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/banner3.jpg","id":306,"size":"","alt":"","source":"library"},"background_overlay_position":"center center","background_overlay_repeat":"no-repeat","background_overlay_size":"cover","background_overlay_opacity":{"unit":"px","size":1,"sizes":[]},"_title":"Banner","flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"padding":{"unit":"px","top":"101","right":"0","bottom":"0","left":"25","isLinked":false},"overflow":"hidden","padding_laptop":{"unit":"px","top":"108","right":"0","bottom":"0","left":"20","isLinked":false},"css_classes":"banner-zoom"},"elements":[{"id":"12b8107","elType":"widget","settings":{"title":"Up to 40% OFF","typography_typography":"custom","typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_font_weight":"700","typography_line_height":{"unit":"custom","size":"1.1666667","sizes":[]},"typography_line_height_widescreen":{"unit":"custom","size":"","sizes":[]},"typography_line_height_laptop":{"unit":"custom","size":"","sizes":[]},"typography_line_height_tablet_extra":{"unit":"custom","size":"","sizes":[]},"typography_line_height_tablet":{"unit":"custom","size":"","sizes":[]},"typography_line_height_mobile_extra":{"unit":"custom","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"custom","size":"","sizes":[]},"typography_font_size_tablet_extra":{"unit":"px","size":26,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"7a01f5b","elType":"widget","settings":{"title":"Elevate your style with our best prices of the season","header_size":"div","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_line_height":{"unit":"px","size":22,"sizes":[]},"title_color":"#000000","_padding":{"unit":"px","top":"10","right":"0","bottom":"15","left":"0","isLinked":false},"_element_width":"initial","_element_custom_width":{"unit":"px","size":280,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"8168d9a","elType":"widget","settings":{"text":"Shop Now","background_color":"#000000","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"20","bottom":"10","left":"20","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"cc989f7","elType":"container","settings":{"flex_gap":{"column":"","row":"","isLinked":true,"unit":"px","size":null},"grid_columns_grid":{"unit":"fr","size":4,"sizes":[]},"grid_rows_grid":{"unit":"fr","size":1,"sizes":[]},"grid_gaps":{"column":"20","row":"20","isLinked":true,"unit":"px"},"padding":{"unit":"px","top":"40","right":"20","bottom":"45","left":"20","isLinked":false},"presetTitle":"Container","presetIcon":"eicon-container"},"elements":[{"id":"58bb7d1","elType":"container","settings":{"container_type":"grid","presetTitle":"Grid","presetIcon":"eicon-container-grid","content_width":"full","grid_columns_grid":{"unit":"fr","size":4,"sizes":[]},"grid_rows_grid":{"unit":"fr","size":1,"sizes":[]},"grid_gaps":{"column":"20","row":"20","isLinked":true,"unit":"px"},"background_background":"classic","background_color":"#060E30","padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"grid_columns_grid_tablet_extra":{"unit":"fr","size":2,"sizes":[]},"grid_rows_grid_tablet_extra":{"unit":"fr","size":2,"sizes":[]}},"elements":[{"id":"39771dc","elType":"widget","settings":{"selected_icon":{"value":{"url":"http:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/freeshipping.svg","id":349},"library":"svg"},"shape":"square","title_text":"Free shipping","description_text":"For all order over $100","position":"left","content_vertical_alignment":"middle","icon_space":{"unit":"px","size":10,"sizes":[]},"title_bottom_space":{"unit":"px","size":0,"sizes":[]},"primary_color":"#FFFFFF","icon_size":{"unit":"px","size":60,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_font_weight":"500","title_typography_text_transform":"uppercase","title_typography_line_height":{"unit":"px","size":20,"sizes":[]},"title_color":"#FFFFFF","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":16,"sizes":[]},"description_typography_line_height":{"unit":"px","size":20,"sizes":[]},"description_color":"#FFFFFF"},"elements":[],"widgetType":"icon-box"},{"id":"97d19fe","elType":"widget","settings":{"title_text":"Support 24\/7","description_text":"Support online 7 days a week","position":"left","content_vertical_alignment":"middle","icon_space":{"unit":"px","size":10,"sizes":[]},"title_bottom_space":{"unit":"px","size":0,"sizes":[]},"primary_color":"#FFFFFF","icon_size":{"unit":"px","size":60,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_font_weight":"500","title_typography_text_transform":"uppercase","title_typography_line_height":{"unit":"px","size":20,"sizes":[]},"title_color":"#FFFFFF","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":16,"sizes":[]},"description_typography_line_height":{"unit":"px","size":20,"sizes":[]},"description_color":"#FFFFFF","selected_icon":{"value":{"url":"http:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/support.svg","id":353},"library":"svg"}},"elements":[],"widgetType":"icon-box"},{"id":"8721be9","elType":"widget","settings":{"title_text":"Payment","description_text":"100% payment security","position":"left","content_vertical_alignment":"middle","icon_space":{"unit":"px","size":10,"sizes":[]},"title_bottom_space":{"unit":"px","size":0,"sizes":[]},"primary_color":"#FFFFFF","icon_size":{"unit":"px","size":60,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_font_weight":"500","title_typography_text_transform":"uppercase","title_typography_line_height":{"unit":"px","size":20,"sizes":[]},"title_color":"#FFFFFF","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":16,"sizes":[]},"description_typography_line_height":{"unit":"px","size":20,"sizes":[]},"description_color":"#FFFFFF","selected_icon":{"value":{"url":"http:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/payment.svg","id":354},"library":"svg"}},"elements":[],"widgetType":"icon-box"},{"id":"a38cc0f","elType":"widget","settings":{"title_text":"Special offers","description_text":"Multiple exclusive deals for you!","position":"left","content_vertical_alignment":"middle","icon_space":{"unit":"px","size":10,"sizes":[]},"title_bottom_space":{"unit":"px","size":0,"sizes":[]},"primary_color":"#FFFFFF","icon_size":{"unit":"px","size":60,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_font_weight":"500","title_typography_text_transform":"uppercase","title_typography_line_height":{"unit":"px","size":20,"sizes":[]},"title_color":"#FFFFFF","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":16,"sizes":[]},"description_typography_line_height":{"unit":"px","size":20,"sizes":[]},"description_color":"#FFFFFF","selected_icon":{"value":{"url":"http:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/offer.svg","id":355},"library":"svg"}},"elements":[],"widgetType":"icon-box"}],"isInner":true}],"isInner":false},{"id":"b35d56c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0"},"flex_justify_content":"space-between","flex_align_items":"center","padding":{"unit":"px","top":"0","right":"20","bottom":"40","left":"20","isLinked":false}},"elements":[{"id":"c4019b1","elType":"widget","settings":{"title":"Collection","typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]},"typography_font_weight":"600","typography_line_height":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"43d1ff6","elType":"container","settings":{"container_type":"grid","presetTitle":"Grid","presetIcon":"eicon-container-grid","grid_rows_grid":{"unit":"fr","size":1,"sizes":[]},"grid_gaps":{"column":"20","row":"20","isLinked":true,"unit":"px"},"padding":{"unit":"px","top":"0","right":"20","bottom":"45","left":"20","isLinked":false},"grid_columns_grid_mobile_extra":{"unit":"fr","size":1,"sizes":[]},"grid_rows_grid_mobile_extra":{"unit":"fr","size":3,"sizes":[]},"grid_columns_grid_tablet":{"unit":"fr","size":1,"sizes":[]},"grid_rows_grid_tablet":{"unit":"fr","size":3,"sizes":[]}},"elements":[{"id":"17dc947","elType":"container","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true}},"elements":[{"id":"e4282ab","elType":"widget","settings":{"title":"Shop Fashion for less","header_size":"h3","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"500","typography_line_height":{"unit":"px","size":23,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"cc3a4c5","elType":"container","settings":{"container_type":"grid","presetTitle":"Grid","presetIcon":"eicon-container-grid","content_width":"full","grid_columns_grid":{"unit":"fr","size":2,"sizes":[]},"grid_columns_grid_mobile":{"unit":"fr","size":2,"sizes":[]},"grid_gaps":{"column":"20","row":"20","isLinked":true,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"097bf55","elType":"widget","settings":{"category_slug":"mens-clothing"},"elements":[],"widgetType":"category"},{"id":"e61bf67","elType":"widget","settings":{"category_slug":"womens-clothing"},"elements":[],"widgetType":"category"},{"id":"2c59896","elType":"widget","settings":{"category_slug":"fashion-accessories"},"elements":[],"widgetType":"category"},{"id":"829cf1c","elType":"widget","settings":{"category_slug":"kids-clothing"},"elements":[],"widgetType":"category"}],"isInner":true}],"isInner":true},{"id":"6594ed9","elType":"container","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true}},"elements":[{"id":"da14c0c","elType":"widget","settings":{"title":"Shop for your home essentials","header_size":"h3","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"500","typography_line_height":{"unit":"px","size":23,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"c03866a","elType":"container","settings":{"container_type":"grid","presetTitle":"Grid","presetIcon":"eicon-container-grid","content_width":"full","grid_columns_grid":{"unit":"fr","size":2,"sizes":[]},"grid_columns_grid_mobile":{"unit":"fr","size":2,"sizes":[]},"grid_gaps":{"column":"20","row":"20","isLinked":true,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"005c9d4","elType":"widget","settings":{"category_slug":"cleaning-supplies"},"elements":[],"widgetType":"category"},{"id":"e9354f4","elType":"widget","settings":{"category_slug":"home-storage"},"elements":[],"widgetType":"category"},{"id":"336abc1","elType":"widget","settings":{"category_slug":"home-decor"},"elements":[],"widgetType":"category"},{"id":"0259473","elType":"widget","settings":{"category_slug":"bedding"},"elements":[],"widgetType":"category"}],"isInner":true}],"isInner":true},{"id":"a0d7727","elType":"container","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true}},"elements":[{"id":"36ddf44","elType":"widget","settings":{"title":"Elevate your Electronics","header_size":"h3","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"500","typography_line_height":{"unit":"px","size":23,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"eb96d34","elType":"container","settings":{"container_type":"grid","presetTitle":"Grid","presetIcon":"eicon-container-grid","content_width":"full","grid_columns_grid":{"unit":"fr","size":2,"sizes":[]},"grid_columns_grid_mobile":{"unit":"fr","size":2,"sizes":[]},"grid_gaps":{"column":"20","row":"20","isLinked":true,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"8c47d35","elType":"widget","settings":{"category_slug":"headphone"},"elements":[],"widgetType":"category"},{"id":"b960d7c","elType":"widget","settings":{"category_slug":"tablets"},"elements":[],"widgetType":"category"},{"id":"125cd3e","elType":"widget","settings":{"category_slug":"gaming"},"elements":[],"widgetType":"category"},{"id":"6f1d1ee","elType":"widget","settings":{"category_slug":"speakers"},"elements":[],"widgetType":"category"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"132d655","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0"},"flex_justify_content":"space-between","flex_align_items":"center","padding":{"unit":"px","top":"0","right":"20","bottom":"40","left":"20","isLinked":false}},"elements":[{"id":"ad510d8","elType":"widget","settings":{"title":"Best seller","typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]},"typography_font_weight":"600","typography_line_height":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"264d8ab","elType":"widget","settings":{"text":"View all","typography_typography":"custom","typography_letter_spacing":{"unit":"em","size":0.10000000000000001,"sizes":[]},"typography_letter_spacing_widescreen":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_laptop":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_tablet_extra":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_mobile_extra":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"em","size":"","sizes":[]},"button_text_color":"#000000","background_color":"#02010100","hover_color":"#FFFFFF","button_background_hover_color":"#000000","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"9","right":"19","bottom":"9","left":"19","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"da31cc1","elType":"container","settings":{"padding":{"unit":"px","top":"0","right":"20","bottom":"40","left":"20","isLinked":false}},"elements":[{"id":"7748ca3","elType":"widget","settings":{"shortcode":"[best_selling_products limit=\"6\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"bf81a76","elType":"container","settings":{"padding":{"unit":"px","top":"0","right":"20","bottom":"45","left":"20","isLinked":false}},"elements":[{"id":"6d4095d","elType":"container","settings":{"content_width":"full","min_height":{"unit":"px","size":450,"sizes":[]},"background_overlay_background":"classic","background_overlay_image":{"url":"http:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/banner7.jpg","id":384,"size":"","alt":"","source":"library"},"background_overlay_position":"center center","background_overlay_repeat":"no-repeat","background_overlay_size":"cover","background_overlay_opacity":{"unit":"px","size":1,"sizes":[]},"padding":{"unit":"px","top":"124","right":"0","bottom":"0","left":"50","isLinked":false},"padding_laptop":{"unit":"px","top":"124","right":"0","bottom":"0","left":"20","isLinked":false},"_title":"Banner","min_height_mobile":{"unit":"px","size":350,"sizes":[]},"overflow":"hidden","padding_mobile":{"unit":"px","top":"90","right":"0","bottom":"0","left":"20","isLinked":false},"css_classes":"banner-zoom"},"elements":[{"id":"76bd54f","elType":"widget","settings":{"title":"Discover This Season\u2019s <br>\nNew Collection for Women","typography_typography":"custom","typography_font_size":{"unit":"px","size":45,"sizes":[]},"typography_font_size_tablet_extra":{"unit":"px","size":32,"sizes":[]},"typography_font_weight":"700","typography_line_height":{"unit":"custom","size":"1.1777778","sizes":[]},"typography_line_height_widescreen":{"unit":"custom","size":"","sizes":[]},"typography_line_height_laptop":{"unit":"custom","size":"","sizes":[]},"typography_line_height_tablet_extra":{"unit":"custom","size":"","sizes":[]},"typography_line_height_tablet":{"unit":"custom","size":"","sizes":[]},"typography_line_height_mobile_extra":{"unit":"custom","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"custom","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"0d49cf4","elType":"widget","settings":{"title":"Shine with the season\u2019s most stylish looks","header_size":"div","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_size_tablet_extra":{"unit":"px","size":16,"sizes":[]},"typography_line_height":{"unit":"px","size":21,"sizes":[]},"title_color":"#000000","_padding":{"unit":"px","top":"15","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"dc83542","elType":"widget","settings":{"text":"View all","background_color":"#000000","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"20","bottom":"10","left":"20","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":false},{"id":"1e0ae4c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0"},"flex_justify_content":"space-between","flex_align_items":"center","padding":{"unit":"px","top":"0","right":"20","bottom":"40","left":"20","isLinked":false}},"elements":[{"id":"27a25db","elType":"widget","settings":{"title":"Our new product","typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]},"typography_font_weight":"600","typography_line_height":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"cfa7614","elType":"widget","settings":{"text":"View all","typography_typography":"custom","typography_letter_spacing":{"unit":"em","size":0.10000000000000001,"sizes":[]},"typography_letter_spacing_widescreen":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_laptop":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_tablet_extra":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_mobile_extra":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"em","size":"","sizes":[]},"button_text_color":"#000000","background_color":"#02010100","hover_color":"#FFFFFF","button_background_hover_color":"#000000","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"9","right":"19","bottom":"9","left":"19","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"4d89c96","elType":"container","settings":{"padding":{"unit":"px","top":"0","right":"20","bottom":"80","left":"20","isLinked":false}},"elements":[{"id":"c1c9187","elType":"widget","settings":{"shortcode":"[recent_products limit=\"12\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"33e2cab","elType":"container","settings":{"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"flex_direction":"row","flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"flex_direction_mobile_extra":"column"},"elements":[{"id":"ac79735","elType":"container","settings":{"content_width":"full","width":{"unit":"%","size":64.21875,"sizes":[]},"boxed_width":{"unit":"%","size":64.21875,"sizes":[]},"boxed_width_widescreen":{"unit":"%","size":"","sizes":[]},"boxed_width_laptop":{"unit":"%","size":"","sizes":[]},"boxed_width_tablet_extra":{"unit":"%","size":"","sizes":[]},"boxed_width_tablet":{"unit":"%","size":"","sizes":[]},"boxed_width_mobile_extra":{"unit":"%","size":"","sizes":[]},"boxed_width_mobile":{"unit":"%","size":"","sizes":[]},"background_overlay_background":"classic","background_overlay_image":{"url":"","id":"","size":"","alt":"","source":"library"},"background_overlay_position":"center center","background_overlay_repeat":"no-repeat","background_overlay_size":"cover","background_overlay_opacity":{"unit":"px","size":1,"sizes":[]},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_title":"Container","width_mobile_extra":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"1ee96a1","elType":"container","settings":{"content_width":"full","min_height":{"unit":"px","size":700,"sizes":[]},"background_overlay_background":"classic","background_overlay_image":{"url":"http:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/banner1.jpg","id":304,"size":"","alt":"","source":"library"},"background_overlay_position":"center center","background_overlay_repeat":"no-repeat","background_overlay_size":"cover","background_overlay_opacity":{"unit":"px","size":1,"sizes":[]},"_title":"Banner","flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"padding":{"unit":"px","top":"204","right":"0","bottom":"0","left":"111","isLinked":false},"padding_laptop":{"unit":"px","top":"204","right":"0","bottom":"0","left":"20","isLinked":false},"min_height_mobile":{"unit":"px","size":400,"sizes":[]},"overflow":"hidden","padding_mobile":{"unit":"px","top":"100","right":"0","bottom":"0","left":"20","isLinked":false},"css_classes":"banner-zoom"},"elements":[{"id":"a54cc78","elType":"widget","settings":{"title":"New Shoe<br>\nCollection Launch","header_size":"h1","typography_typography":"custom","typography_font_size":{"unit":"px","size":60,"sizes":[]},"typography_font_weight":"700","typography_line_height":{"unit":"custom","size":"1.1666667","sizes":[]},"typography_line_height_widescreen":{"unit":"custom","size":"","sizes":[]},"typography_line_height_laptop":{"unit":"custom","size":"","sizes":[]},"typography_line_height_tablet_extra":{"unit":"custom","size":"","sizes":[]},"typography_line_height_tablet":{"unit":"custom","size":"","sizes":[]},"typography_line_height_mobile_extra":{"unit":"custom","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"custom","size":"","sizes":[]},"typography_font_size_tablet_extra":{"unit":"px","size":40,"sizes":[]},"typography_font_size_laptop":{"unit":"px","size":50,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"bc978d3","elType":"widget","settings":{"title":"Discover modern style, lead the trend","header_size":"div","typography_typography":"custom","typography_font_size":{"unit":"px","size":22,"sizes":[]},"typography_line_height":{"unit":"px","size":26,"sizes":[]},"title_color":"#000000","_padding":{"unit":"px","top":"15","right":"0","bottom":"20","left":"0","isLinked":false},"typography_font_size_tablet_extra":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"ad6e6dc","elType":"widget","settings":{"text":"Shop Now","background_color":"#000000","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"20","bottom":"10","left":"20","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true},{"id":"49ac284","elType":"container","settings":{"content_width":"full","width":{"unit":"%","size":35.78125,"sizes":[]},"flex_gap":{"column":"20","row":"20","isLinked":true,"unit":"px","size":20},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"20","isLinked":false},"width_mobile_extra":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"padding_mobile_extra":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6bf667c","elType":"container","settings":{"content_width":"full","min_height":{"unit":"px","size":340,"sizes":[]},"background_overlay_background":"classic","background_overlay_image":{"url":"http:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/banner2.jpg","id":305,"size":"","alt":"","source":"library"},"background_overlay_position":"center center","background_overlay_repeat":"no-repeat","background_overlay_size":"cover","background_overlay_opacity":{"unit":"px","size":1,"sizes":[]},"_title":"Banner","flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"padding":{"unit":"px","top":"108","right":"0","bottom":"0","left":"25","isLinked":false},"overflow":"hidden","padding_laptop":{"unit":"px","top":"108","right":"0","bottom":"0","left":"20","isLinked":false},"css_classes":"banner-zoom"},"elements":[{"id":"8d62f22","elType":"widget","settings":{"title":"Special Treat<br>\nFor New Customers","typography_typography":"custom","typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_font_weight":"700","typography_line_height":{"unit":"custom","size":"1.1666667","sizes":[]},"typography_line_height_widescreen":{"unit":"custom","size":"","sizes":[]},"typography_line_height_laptop":{"unit":"custom","size":"","sizes":[]},"typography_line_height_tablet_extra":{"unit":"custom","size":"","sizes":[]},"typography_line_height_tablet":{"unit":"custom","size":"","sizes":[]},"typography_line_height_mobile_extra":{"unit":"custom","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"custom","size":"","sizes":[]},"typography_font_size_tablet_extra":{"unit":"px","size":26,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"97e2c0c","elType":"widget","settings":{"title":"Enjoy 10% off your first order\nwith code \u201cWELCOME\u201d","header_size":"div","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_line_height":{"unit":"px","size":22,"sizes":[]},"title_color":"#000000","_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"_element_width":"initial","_element_custom_width":{"unit":"px","size":205,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"5ede45a","elType":"container","settings":{"content_width":"full","min_height":{"unit":"px","size":340,"sizes":[]},"background_overlay_background":"classic","background_overlay_image":{"url":"http:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/banner3.jpg","id":306,"size":"","alt":"","source":"library"},"background_overlay_position":"center center","background_overlay_repeat":"no-repeat","background_overlay_size":"cover","background_overlay_opacity":{"unit":"px","size":1,"sizes":[]},"_title":"Banner","flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"padding":{"unit":"px","top":"101","right":"0","bottom":"0","left":"25","isLinked":false},"overflow":"hidden","padding_laptop":{"unit":"px","top":"108","right":"0","bottom":"0","left":"20","isLinked":false},"css_classes":"banner-zoom"},"elements":[{"id":"12b8107","elType":"widget","settings":{"title":"Up to 40% OFF","typography_typography":"custom","typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_font_weight":"700","typography_line_height":{"unit":"custom","size":"1.1666667","sizes":[]},"typography_line_height_widescreen":{"unit":"custom","size":"","sizes":[]},"typography_line_height_laptop":{"unit":"custom","size":"","sizes":[]},"typography_line_height_tablet_extra":{"unit":"custom","size":"","sizes":[]},"typography_line_height_tablet":{"unit":"custom","size":"","sizes":[]},"typography_line_height_mobile_extra":{"unit":"custom","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"custom","size":"","sizes":[]},"typography_font_size_tablet_extra":{"unit":"px","size":26,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"7a01f5b","elType":"widget","settings":{"title":"Elevate your style with our best prices of the season","header_size":"div","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_line_height":{"unit":"px","size":22,"sizes":[]},"title_color":"#000000","_padding":{"unit":"px","top":"10","right":"0","bottom":"15","left":"0","isLinked":false},"_element_width":"initial","_element_custom_width":{"unit":"px","size":280,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"8168d9a","elType":"widget","settings":{"text":"Shop Now","background_color":"#000000","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"20","bottom":"10","left":"20","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"cc989f7","elType":"container","settings":{"flex_gap":{"column":"","row":"","isLinked":true,"unit":"px","size":null},"grid_columns_grid":{"unit":"fr","size":4,"sizes":[]},"grid_rows_grid":{"unit":"fr","size":1,"sizes":[]},"grid_gaps":{"column":"20","row":"20","isLinked":true,"unit":"px"},"padding":{"unit":"px","top":"40","right":"20","bottom":"45","left":"20","isLinked":false},"presetTitle":"Container","presetIcon":"eicon-container"},"elements":[{"id":"58bb7d1","elType":"container","settings":{"container_type":"grid","presetTitle":"Grid","presetIcon":"eicon-container-grid","content_width":"full","grid_columns_grid":{"unit":"fr","size":4,"sizes":[]},"grid_rows_grid":{"unit":"fr","size":1,"sizes":[]},"grid_gaps":{"column":"20","row":"20","isLinked":true,"unit":"px"},"background_background":"classic","background_color":"#060E30","padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"grid_columns_grid_tablet_extra":{"unit":"fr","size":2,"sizes":[]},"grid_rows_grid_tablet_extra":{"unit":"fr","size":2,"sizes":[]}},"elements":[{"id":"265a1a1","elType":"widget","settings":{"image":{"url":"http:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/ship.jpg","id":692,"size":"","alt":"","source":"library"},"title_text":"Free shipping","description_text":"For all order over $100","position":"left","image_space":{"unit":"px","size":10,"sizes":[]},"title_bottom_space":{"unit":"px","size":0,"sizes":[]},"image_size":{"unit":"px","size":75,"sizes":[]},"image_size_tablet":{"unit":"px","size":"","sizes":[]},"image_size_mobile":{"unit":"px","size":"","sizes":[]},"image_height":{"unit":"px","size":60,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_font_weight":"500","title_typography_text_transform":"uppercase","title_typography_line_height":{"unit":"px","size":20,"sizes":[]},"title_color":"#FFFFFF","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":16,"sizes":[]},"description_typography_line_height":{"unit":"px","size":20,"sizes":[]},"description_color":"#FFFFFF","thumbnail_custom_dimension":{"width":"60","height":"60"},"image_size_widescreen":{"unit":"%","size":"","sizes":[]},"image_size_laptop":{"unit":"%","size":"","sizes":[]},"image_size_tablet_extra":{"unit":"%","size":"","sizes":[]}},"elements":[],"widgetType":"image-box"},{"id":"44fdb68","elType":"widget","settings":{"image":{"url":"http:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/sup.jpg","id":702,"size":"","alt":"","source":"library"},"title_text":"Support 24\/7","description_text":"Support online 7 days a week","position":"left","image_space":{"unit":"px","size":10,"sizes":[]},"title_bottom_space":{"unit":"px","size":0,"sizes":[]},"image_size":{"unit":"px","size":75,"sizes":[]},"image_size_tablet":{"unit":"px","size":"","sizes":[]},"image_size_mobile":{"unit":"px","size":"","sizes":[]},"image_height":{"unit":"px","size":60,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_font_weight":"500","title_typography_text_transform":"uppercase","title_typography_line_height":{"unit":"px","size":20,"sizes":[]},"title_color":"#FFFFFF","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":16,"sizes":[]},"description_typography_line_height":{"unit":"px","size":20,"sizes":[]},"description_color":"#FFFFFF","thumbnail_custom_dimension":{"width":"60","height":"60"},"image_size_widescreen":{"unit":"%","size":"","sizes":[]},"image_size_laptop":{"unit":"%","size":"","sizes":[]},"image_size_tablet_extra":{"unit":"%","size":"","sizes":[]}},"elements":[],"widgetType":"image-box"},{"id":"c002aec","elType":"widget","settings":{"image":{"url":"http:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/pay.jpg","id":703,"size":"","alt":"","source":"library"},"title_text":"Payment","description_text":"100% payment security","position":"left","image_space":{"unit":"px","size":10,"sizes":[]},"title_bottom_space":{"unit":"px","size":0,"sizes":[]},"image_size":{"unit":"px","size":75,"sizes":[]},"image_size_tablet":{"unit":"px","size":"","sizes":[]},"image_size_mobile":{"unit":"px","size":"","sizes":[]},"image_height":{"unit":"px","size":60,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_font_weight":"500","title_typography_text_transform":"uppercase","title_typography_line_height":{"unit":"px","size":20,"sizes":[]},"title_color":"#FFFFFF","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":16,"sizes":[]},"description_typography_line_height":{"unit":"px","size":20,"sizes":[]},"description_color":"#FFFFFF","thumbnail_custom_dimension":{"width":"60","height":"60"},"image_size_widescreen":{"unit":"%","size":"","sizes":[]},"image_size_laptop":{"unit":"%","size":"","sizes":[]},"image_size_tablet_extra":{"unit":"%","size":"","sizes":[]}},"elements":[],"widgetType":"image-box"},{"id":"027b470","elType":"widget","settings":{"image":{"url":"http:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/off.jpg","id":704,"size":"","alt":"","source":"library"},"title_text":"Special offers","description_text":"Multiple exclusive deals for you!","position":"left","image_space":{"unit":"px","size":10,"sizes":[]},"title_bottom_space":{"unit":"px","size":0,"sizes":[]},"image_size":{"unit":"px","size":75,"sizes":[]},"image_size_tablet":{"unit":"px","size":"","sizes":[]},"image_size_mobile":{"unit":"px","size":"","sizes":[]},"image_height":{"unit":"px","size":60,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_font_weight":"500","title_typography_text_transform":"uppercase","title_typography_line_height":{"unit":"px","size":20,"sizes":[]},"title_color":"#FFFFFF","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":16,"sizes":[]},"description_typography_line_height":{"unit":"px","size":20,"sizes":[]},"description_color":"#FFFFFF","thumbnail_custom_dimension":{"width":"60","height":"60"},"image_size_widescreen":{"unit":"%","size":"","sizes":[]},"image_size_laptop":{"unit":"%","size":"","sizes":[]},"image_size_tablet_extra":{"unit":"%","size":"","sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":true}],"isInner":false},{"id":"b35d56c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0"},"flex_justify_content":"space-between","flex_align_items":"center","padding":{"unit":"px","top":"0","right":"20","bottom":"40","left":"20","isLinked":false}},"elements":[{"id":"c4019b1","elType":"widget","settings":{"title":"Collection","typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]},"typography_font_weight":"600","typography_line_height":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"43d1ff6","elType":"container","settings":{"container_type":"grid","presetTitle":"Grid","presetIcon":"eicon-container-grid","grid_rows_grid":{"unit":"fr","size":1,"sizes":[]},"grid_gaps":{"column":"20","row":"20","isLinked":true,"unit":"px"},"padding":{"unit":"px","top":"0","right":"20","bottom":"45","left":"20","isLinked":false},"grid_columns_grid_mobile_extra":{"unit":"fr","size":1,"sizes":[]},"grid_rows_grid_mobile_extra":{"unit":"fr","size":3,"sizes":[]},"grid_columns_grid_tablet":{"unit":"fr","size":1,"sizes":[]},"grid_rows_grid_tablet":{"unit":"fr","size":3,"sizes":[]}},"elements":[{"id":"17dc947","elType":"container","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true}},"elements":[{"id":"e4282ab","elType":"widget","settings":{"title":"Shop Fashion for less","header_size":"h3","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"500","typography_line_height":{"unit":"px","size":23,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"cc3a4c5","elType":"container","settings":{"container_type":"grid","presetTitle":"Grid","presetIcon":"eicon-container-grid","content_width":"full","grid_columns_grid":{"unit":"fr","size":2,"sizes":[]},"grid_columns_grid_mobile":{"unit":"fr","size":2,"sizes":[]},"grid_gaps":{"column":"20","row":"20","isLinked":true,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"097bf55","elType":"widget","settings":{"category_slug":"mens-clothing"},"elements":[],"widgetType":"category"},{"id":"e61bf67","elType":"widget","settings":{"category_slug":"womens-clothing"},"elements":[],"widgetType":"category"},{"id":"2c59896","elType":"widget","settings":{"category_slug":"fashion-accessories"},"elements":[],"widgetType":"category"},{"id":"829cf1c","elType":"widget","settings":{"category_slug":"kids-clothing"},"elements":[],"widgetType":"category"}],"isInner":true}],"isInner":true},{"id":"6594ed9","elType":"container","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true}},"elements":[{"id":"da14c0c","elType":"widget","settings":{"title":"Shop for your home essentials","header_size":"h3","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"500","typography_line_height":{"unit":"px","size":23,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"c03866a","elType":"container","settings":{"container_type":"grid","presetTitle":"Grid","presetIcon":"eicon-container-grid","content_width":"full","grid_columns_grid":{"unit":"fr","size":2,"sizes":[]},"grid_columns_grid_mobile":{"unit":"fr","size":2,"sizes":[]},"grid_gaps":{"column":"20","row":"20","isLinked":true,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"005c9d4","elType":"widget","settings":{"category_slug":"cleaning-supplies"},"elements":[],"widgetType":"category"},{"id":"e9354f4","elType":"widget","settings":{"category_slug":"home-storage"},"elements":[],"widgetType":"category"},{"id":"336abc1","elType":"widget","settings":{"category_slug":"home-decor"},"elements":[],"widgetType":"category"},{"id":"0259473","elType":"widget","settings":{"category_slug":"bedding"},"elements":[],"widgetType":"category"}],"isInner":true}],"isInner":true},{"id":"a0d7727","elType":"container","settings":{"content_width":"full","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true}},"elements":[{"id":"36ddf44","elType":"widget","settings":{"title":"Elevate your Electronics","header_size":"h3","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":20,"sizes":[]},"typography_font_weight":"500","typography_line_height":{"unit":"px","size":23,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"eb96d34","elType":"container","settings":{"container_type":"grid","presetTitle":"Grid","presetIcon":"eicon-container-grid","content_width":"full","grid_columns_grid":{"unit":"fr","size":2,"sizes":[]},"grid_columns_grid_mobile":{"unit":"fr","size":2,"sizes":[]},"grid_gaps":{"column":"20","row":"20","isLinked":true,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"8c47d35","elType":"widget","settings":{"category_slug":"headphone"},"elements":[],"widgetType":"category"},{"id":"b960d7c","elType":"widget","settings":{"category_slug":"tablets"},"elements":[],"widgetType":"category"},{"id":"125cd3e","elType":"widget","settings":{"category_slug":"gaming"},"elements":[],"widgetType":"category"},{"id":"6f1d1ee","elType":"widget","settings":{"category_slug":"speakers"},"elements":[],"widgetType":"category"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"132d655","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0"},"flex_justify_content":"space-between","flex_align_items":"center","padding":{"unit":"px","top":"0","right":"20","bottom":"40","left":"20","isLinked":false}},"elements":[{"id":"ad510d8","elType":"widget","settings":{"title":"Best seller","typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]},"typography_font_weight":"600","typography_line_height":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"264d8ab","elType":"widget","settings":{"text":"View all","typography_typography":"custom","typography_letter_spacing":{"unit":"em","size":0.10000000000000001,"sizes":[]},"typography_letter_spacing_widescreen":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_laptop":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_tablet_extra":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_mobile_extra":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"em","size":"","sizes":[]},"button_text_color":"#000000","background_color":"#02010100","hover_color":"#FFFFFF","button_background_hover_color":"#000000","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"9","right":"19","bottom":"9","left":"19","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"da31cc1","elType":"container","settings":{"padding":{"unit":"px","top":"0","right":"20","bottom":"40","left":"20","isLinked":false}},"elements":[{"id":"7748ca3","elType":"widget","settings":{"shortcode":"[best_selling_products limit=\"6\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"bf81a76","elType":"container","settings":{"padding":{"unit":"px","top":"0","right":"20","bottom":"45","left":"20","isLinked":false}},"elements":[{"id":"6d4095d","elType":"container","settings":{"content_width":"full","min_height":{"unit":"px","size":450,"sizes":[]},"background_overlay_background":"classic","background_overlay_image":{"url":"http:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/banner7.jpg","id":384,"size":"","alt":"","source":"library"},"background_overlay_position":"center center","background_overlay_repeat":"no-repeat","background_overlay_size":"cover","background_overlay_opacity":{"unit":"px","size":1,"sizes":[]},"padding":{"unit":"px","top":"124","right":"0","bottom":"0","left":"50","isLinked":false},"padding_laptop":{"unit":"px","top":"124","right":"0","bottom":"0","left":"20","isLinked":false},"_title":"Banner","min_height_mobile":{"unit":"px","size":350,"sizes":[]},"overflow":"hidden","padding_mobile":{"unit":"px","top":"90","right":"0","bottom":"0","left":"20","isLinked":false},"css_classes":"banner-zoom"},"elements":[{"id":"76bd54f","elType":"widget","settings":{"title":"Discover This Season\u2019s <br>\nNew Collection for Women","typography_typography":"custom","typography_font_size":{"unit":"px","size":45,"sizes":[]},"typography_font_size_tablet_extra":{"unit":"px","size":32,"sizes":[]},"typography_font_weight":"700","typography_line_height":{"unit":"custom","size":"1.1777778","sizes":[]},"typography_line_height_widescreen":{"unit":"custom","size":"","sizes":[]},"typography_line_height_laptop":{"unit":"custom","size":"","sizes":[]},"typography_line_height_tablet_extra":{"unit":"custom","size":"","sizes":[]},"typography_line_height_tablet":{"unit":"custom","size":"","sizes":[]},"typography_line_height_mobile_extra":{"unit":"custom","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"custom","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"0d49cf4","elType":"widget","settings":{"title":"Shine with the season\u2019s most stylish looks","header_size":"div","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_size_tablet_extra":{"unit":"px","size":16,"sizes":[]},"typography_line_height":{"unit":"px","size":21,"sizes":[]},"title_color":"#000000","_padding":{"unit":"px","top":"15","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"dc83542","elType":"widget","settings":{"text":"View all","background_color":"#000000","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"10","right":"20","bottom":"10","left":"20","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":false},{"id":"1e0ae4c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0"},"flex_justify_content":"space-between","flex_align_items":"center","padding":{"unit":"px","top":"0","right":"20","bottom":"40","left":"20","isLinked":false}},"elements":[{"id":"27a25db","elType":"widget","settings":{"title":"Our new product","typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]},"typography_font_weight":"600","typography_line_height":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"cfa7614","elType":"widget","settings":{"text":"View all","typography_typography":"custom","typography_letter_spacing":{"unit":"em","size":0.10000000000000001,"sizes":[]},"typography_letter_spacing_widescreen":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_laptop":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_tablet_extra":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_mobile_extra":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"em","size":"","sizes":[]},"button_text_color":"#000000","background_color":"#02010100","hover_color":"#FFFFFF","button_background_hover_color":"#000000","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"9","right":"19","bottom":"9","left":"19","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"4d89c96","elType":"container","settings":{"padding":{"unit":"px","top":"0","right":"20","bottom":"80","left":"20","isLinked":false}},"elements":[{"id":"c1c9187","elType":"widget","settings":{"shortcode":"[recent_products limit=\"12\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{s:10:"hide_title";s:3:"yes";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:6:"styles";a:2:{i:0;s:14:"widget-heading";i:1;s:16:"widget-image-box";}s:7:"scripts";a:1:{i:0;s:18:"elementor-frontend";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"timeout":1761105299,"value":{"content":"<div class=\"elementor-element elementor-element-33e2cab e-con-full e-flex e-con e-parent\" data-id=\"33e2cab\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-ac79735 e-con-full e-flex e-con e-child\" data-id=\"ac79735\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-1ee96a1 e-con-full banner-zoom e-flex e-con e-child\" data-id=\"1ee96a1\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-a54cc78 elementor-widget elementor-widget-heading\" data-id=\"a54cc78\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h1 class=\"elementor-heading-title elementor-size-default\">New Shoe<br>\nCollection Launch<\/h1>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-bc978d3 elementor-widget elementor-widget-heading\" data-id=\"bc978d3\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<div class=\"elementor-heading-title elementor-size-default\">Discover modern style, lead the trend<\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-ad6e6dc elementor-widget elementor-widget-button\" data-id=\"ad6e6dc\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"#\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Shop Now<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-49ac284 e-con-full e-flex e-con e-child\" data-id=\"49ac284\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-6bf667c e-con-full banner-zoom e-flex e-con e-child\" data-id=\"6bf667c\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-8d62f22 elementor-widget elementor-widget-heading\" data-id=\"8d62f22\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Special Treat<br>\nFor New Customers<\/h2>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-97e2c0c elementor-widget__width-initial elementor-widget elementor-widget-heading\" data-id=\"97e2c0c\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<div class=\"elementor-heading-title elementor-size-default\">Enjoy 10% off your first order\nwith code \u201cWELCOME\u201d<\/div>\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-5ede45a e-con-full banner-zoom e-flex e-con e-child\" data-id=\"5ede45a\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-12b8107 elementor-widget elementor-widget-heading\" data-id=\"12b8107\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Up to 40% OFF<\/h2>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-7a01f5b elementor-widget__width-initial elementor-widget elementor-widget-heading\" data-id=\"7a01f5b\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<div class=\"elementor-heading-title elementor-size-default\">Elevate your style with our best prices of the season<\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-8168d9a elementor-widget elementor-widget-button\" data-id=\"8168d9a\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"#\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Shop Now<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-cc989f7 e-flex e-con-boxed e-con e-parent\" data-id=\"cc989f7\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-58bb7d1 e-grid e-con-full e-con e-child\" data-id=\"58bb7d1\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t<div class=\"elementor-element elementor-element-265a1a1 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box\" data-id=\"265a1a1\" data-element_type=\"widget\" data-widget_type=\"image-box.default\">\n\t\t\t\t\t<div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img width=\"60\" height=\"60\" src=\"https:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/ship.jpg\" class=\"attachment-full size-full wp-image-692\" alt=\"\" \/><\/figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Free shipping<\/h3><p class=\"elementor-image-box-description\">For all order over $100<\/p><\/div><\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-44fdb68 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box\" data-id=\"44fdb68\" data-element_type=\"widget\" data-widget_type=\"image-box.default\">\n\t\t\t\t\t<div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img width=\"60\" height=\"60\" src=\"https:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/sup.jpg\" class=\"attachment-full size-full wp-image-702\" alt=\"\" \/><\/figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Support 24\/7<\/h3><p class=\"elementor-image-box-description\">Support online 7 days a week<\/p><\/div><\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-c002aec elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box\" data-id=\"c002aec\" data-element_type=\"widget\" data-widget_type=\"image-box.default\">\n\t\t\t\t\t<div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img width=\"60\" height=\"60\" src=\"https:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/pay.jpg\" class=\"attachment-full size-full wp-image-703\" alt=\"\" \/><\/figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Payment<\/h3><p class=\"elementor-image-box-description\">100% payment security<\/p><\/div><\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-027b470 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box\" data-id=\"027b470\" data-element_type=\"widget\" data-widget_type=\"image-box.default\">\n\t\t\t\t\t<div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img width=\"60\" height=\"60\" src=\"https:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/off.jpg\" class=\"attachment-full size-full wp-image-704\" alt=\"\" \/><\/figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Special offers<\/h3><p class=\"elementor-image-box-description\">Multiple exclusive deals for you!<\/p><\/div><\/div>\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-b35d56c e-flex e-con-boxed e-con e-parent\" data-id=\"b35d56c\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-c4019b1 elementor-widget elementor-widget-heading\" data-id=\"c4019b1\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Collection<\/h2>\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-43d1ff6 e-grid e-con-boxed e-con e-parent\" data-id=\"43d1ff6\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-17dc947 e-con-full e-flex e-con e-child\" data-id=\"17dc947\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t<div class=\"elementor-element elementor-element-e4282ab elementor-widget elementor-widget-heading\" data-id=\"e4282ab\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Shop Fashion for less<\/h3>\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-cc3a4c5 e-grid e-con-full e-con e-child\" data-id=\"cc3a4c5\" data-element_type=\"container\">\n\t\t[elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjA5N2JmNTUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoibWVucy1jbG90aGluZyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6ImU2MWJmNjciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoid29tZW5zLWNsb3RoaW5nIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImNhdGVnb3J5In0=\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjJjNTk4OTYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiZmFzaGlvbi1hY2Nlc3NvcmllcyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjgyOWNmMWMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoia2lkcy1jbG90aGluZyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-6594ed9 e-con-full e-flex e-con e-child\" data-id=\"6594ed9\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t<div class=\"elementor-element elementor-element-da14c0c elementor-widget elementor-widget-heading\" data-id=\"da14c0c\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Shop for your home essentials<\/h3>\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-c03866a e-grid e-con-full e-con e-child\" data-id=\"c03866a\" data-element_type=\"container\">\n\t\t[elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjAwNWM5ZDQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiY2xlYW5pbmctc3VwcGxpZXMifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiY2F0ZWdvcnkifQ==\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6ImU5MzU0ZjQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiaG9tZS1zdG9yYWdlIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImNhdGVnb3J5In0=\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjMzNmFiYzEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiaG9tZS1kZWNvciJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjAyNTk0NzMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiYmVkZGluZyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-a0d7727 e-con-full e-flex e-con e-child\" data-id=\"a0d7727\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t<div class=\"elementor-element elementor-element-36ddf44 elementor-widget elementor-widget-heading\" data-id=\"36ddf44\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Elevate your Electronics<\/h3>\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-eb96d34 e-grid e-con-full e-con e-child\" data-id=\"eb96d34\" data-element_type=\"container\">\n\t\t[elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjhjNDdkMzUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiaGVhZHBob25lIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImNhdGVnb3J5In0=\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6ImI5NjBkN2MiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoidGFibGV0cyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjEyNWNkM2UiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiZ2FtaW5nIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImNhdGVnb3J5In0=\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjZmMWQxZWUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoic3BlYWtlcnMifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiY2F0ZWdvcnkifQ==\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-132d655 e-flex e-con-boxed e-con e-parent\" data-id=\"132d655\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-ad510d8 elementor-widget elementor-widget-heading\" data-id=\"ad510d8\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Best seller<\/h2>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-264d8ab elementor-widget elementor-widget-button\" data-id=\"264d8ab\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"#\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">View all<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-da31cc1 e-flex e-con-boxed e-con e-parent\" data-id=\"da31cc1\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6Ijc3NDhjYTMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJzaG9ydGNvZGUiOiJbYmVzdF9zZWxsaW5nX3Byb2R1Y3RzIGxpbWl0PVwiNlwiXSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJzaG9ydGNvZGUifQ==\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-bf81a76 e-flex e-con-boxed e-con e-parent\" data-id=\"bf81a76\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-6d4095d e-con-full banner-zoom e-flex e-con e-child\" data-id=\"6d4095d\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-76bd54f elementor-widget elementor-widget-heading\" data-id=\"76bd54f\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Discover This Season\u2019s <br>\nNew Collection for Women<\/h2>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-0d49cf4 elementor-widget elementor-widget-heading\" data-id=\"0d49cf4\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<div class=\"elementor-heading-title elementor-size-default\">Shine with the season\u2019s most stylish looks<\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-dc83542 elementor-widget elementor-widget-button\" data-id=\"dc83542\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"#\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">View all<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-1e0ae4c e-flex e-con-boxed e-con e-parent\" data-id=\"1e0ae4c\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-27a25db elementor-widget elementor-widget-heading\" data-id=\"27a25db\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Our new product<\/h2>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-cfa7614 elementor-widget elementor-widget-button\" data-id=\"cfa7614\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"#\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">View all<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-4d89c96 e-flex e-con-boxed e-con e-parent\" data-id=\"4d89c96\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6ImMxYzkxODciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJzaG9ydGNvZGUiOiJbcmVjZW50X3Byb2R1Y3RzIGxpbWl0PVwiMTJcIl0ifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoic2hvcnRjb2RlIn0=\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7287,299 +7259,6 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Tablets]]></title>
-		<link>https://mini.new2new.com/tablets/</link>
-		<pubDate>Tue, 14 Oct 2025 04:18:01 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">https://mini.new2new.com/?p=630</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>630</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-16 09:29:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-14 04:18:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-16 09:29:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-16 09:29:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[tablets]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>21</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="vertical-menu"><![CDATA[Vertical Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[630]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-10-14]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Women’s clothing]]></title>
-		<link>https://mini.new2new.com/womens-clothing/</link>
-		<pubDate>Tue, 14 Oct 2025 04:18:01 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">https://mini.new2new.com/?p=631</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>631</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-16 09:29:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-14 04:18:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-16 09:29:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-16 09:29:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[womens-clothing]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>22</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="vertical-menu"><![CDATA[Vertical Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[631]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-10-14]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Accessories]]></title>
-		<link>https://mini.new2new.com/accessories-2/</link>
-		<pubDate>Thu, 16 Oct 2025 09:17:52 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">https://mini.new2new.com/?p=660</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>660</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-16 09:29:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-16 09:17:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-16 09:29:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-16 09:29:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[accessories-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="vertical-menu"><![CDATA[Vertical Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[620]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[660]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Activewear]]></title>
-		<link>https://mini.new2new.com/activewear/</link>
-		<pubDate>Thu, 16 Oct 2025 09:17:52 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">https://mini.new2new.com/?p=661</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>661</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-16 09:29:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-16 09:17:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-16 09:29:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-16 09:29:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[activewear]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="vertical-menu"><![CDATA[Vertical Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[620]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[661]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Jackets & Coats]]></title>
-		<link>https://mini.new2new.com/jackets-coats/</link>
-		<pubDate>Thu, 16 Oct 2025 09:17:52 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">https://mini.new2new.com/?p=662</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>662</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-16 09:29:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-16 09:17:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-16 09:29:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-16 09:29:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[jackets-coats]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="vertical-menu"><![CDATA[Vertical Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[620]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[662]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Pants]]></title>
 		<link>https://mini.new2new.com/pants/</link>
 		<pubDate>Thu, 16 Oct 2025 09:17:52 +0000</pubDate>
@@ -7976,6 +7655,291 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Shop]]></title>
+		<link>https://mini.new2new.com/shop/</link>
+		<pubDate>Tue, 21 Oct 2025 03:37:25 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">https://mini.new2new.com/?p=681</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>681</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-21 03:37:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-21 03:37:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-21 03:37:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-21 03:37:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[shop]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[681]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://mini.new2new.com/shop]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[About]]></title>
+		<link>https://mini.new2new.com/about/</link>
+		<pubDate>Tue, 21 Oct 2025 03:37:25 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">https://mini.new2new.com/?p=682</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>682</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-21 03:37:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-21 03:37:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-21 03:37:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-21 03:37:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[682]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://mini.new2new.com/about]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact]]></title>
+		<link>https://mini.new2new.com/contact-2/</link>
+		<pubDate>Tue, 21 Oct 2025 03:37:25 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">https://mini.new2new.com/?p=683</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>683</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-21 03:37:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-21 03:37:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-21 03:37:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-21 03:37:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[683]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://mini.new2new.com/contact]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Blog]]></title>
+		<link>https://mini.new2new.com/blog/</link>
+		<pubDate>Tue, 21 Oct 2025 03:37:25 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">https://mini.new2new.com/?p=684</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>684</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-21 03:37:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-21 03:37:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-21 03:37:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-21 03:37:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[684]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://mini.new2new.com/blog]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://mini.new2new.com/home/</link>
+		<pubDate>Tue, 21 Oct 2025 03:37:25 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">https://mini.new2new.com/?p=685</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>685</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-21 03:37:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-21 03:37:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-21 03:37:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-21 03:37:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[685]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://mini.new2new.com]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
