@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.3" created="2025-10-21 04:58" -->
+	<!-- generator="WordPress/6.8.3" created="2025-10-21 06:46" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>VIMart Minimal Market</title>
 	<link>https://mini.new2new.com</link>
 	<description></description>
-	<pubDate>Tue, 21 Oct 2025 04:58:20 +0000</pubDate>
+	<pubDate>Tue, 21 Oct 2025 06:46:45 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://mini.new2new.com</wp:base_site_url>
@@ -105,7 +105,7 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[616]]></wp:meta_value>
+			<wp:meta_value><![CDATA[708]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
@@ -3701,39 +3701,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[clean]]></title>
-		<link>https://mini.new2new.com/clean/</link>
-		<pubDate>Mon, 13 Oct 2025 09:24:23 +0000</pubDate>
-		<dc:creator><![CDATA[vicom_market]]></dc:creator>
-		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/clean.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>616</wp:post_id>
-		<wp:post_date><![CDATA[2025-10-13 09:24:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-10-13 09:24:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-13 09:24:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-13 09:24:23]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[clean]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/clean.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/10/clean.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:243;s:6:"height";i:224;s:4:"file";s:17:"2025/10/clean.jpg";s:8:"filesize";i:29016;s:5:"sizes";a:2:{s:9:"thumbnail";a:5:{s:4:"file";s:17:"clean-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5580;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:17:"clean-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3131;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[women]]></title>
 		<link>https://mini.new2new.com/women-2/</link>
 		<pubDate>Mon, 13 Oct 2025 09:24:43 +0000</pubDate>
@@ -4226,6 +4193,39 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:60;s:6:"height";i:60;s:4:"file";s:15:"2025/10/off.jpg";s:8:"filesize";i:3374;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[clea-img]]></title>
+		<link>https://mini.new2new.com/clea-img/</link>
+		<pubDate>Tue, 21 Oct 2025 06:46:05 +0000</pubDate>
+		<dc:creator><![CDATA[vicom_market]]></dc:creator>
+		<guid isPermaLink="false">http://mini.new2new.com/wp-content/uploads/2025/10/clea-img.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>708</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-21 06:46:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-21 06:46:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-21 06:46:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-21 06:46:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[clea-img]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://mini.new2new.com/wp-content/uploads/2025/10/clea-img.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/10/clea-img.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:243;s:6:"height";i:224;s:4:"file";s:20:"2025/10/clea-img.jpg";s:8:"filesize";i:28308;s:5:"sizes";a:2:{s:9:"thumbnail";a:5:{s:4:"file";s:20:"clea-img-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5571;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:20:"clea-img-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3153;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
