@@ -1,0 +1,22 @@
+{
+  "enable": 1,
+  "loading_icon_type": "default",
+  "loading_icon_color": "#706f6f",
+  "override_template": "",
+  "lightbox": 1,
+  "lightbox_icon": "",
+  "zoom": "",
+  "auto_play": "",
+  "auto_play_speed": 5,
+  "transition": "slide",
+  "navigation_pos": "center",
+  "thumbnail": 1,
+  "thumbnail_pos": "bottom",
+  "thumbnail_mobile_pos": "bottom",
+  "thumbnail_main_img": "",
+  "thumbnail_default_enable": 1,
+  "thumbnail_hover_change": 1,
+  "thumbnail_gap": 20,
+  "thumbnail_gap_with_main_img": 20,
+  "thumbnail_slide": 1
+}
