@@ -1,0 +1,20 @@
+{
+  "enable": "1",
+  "position": "after_add_to_cart",
+  "woo_sc_name": "",
+  "btn_horizontal": "right",
+  "btn_vertical": 50,
+  "multi_sc": 1,
+  "button_type": "text",
+  "btn_color": "#ffffff",
+  "text_color": "#F7931E",
+  "pscw_icon": "ruler-icon-2",
+  "custom_css": "",
+  "cus_design": "",
+  "cus_table": "",
+  "cus_tab": "",
+  "cus_text": "",
+  "cus_image": "",
+  "cus_divider": "",
+  "cus_accordion": ""
+}
